@@ -12,5 +12,5 @@ python -m pytorch_fid fid/real/ fid/fake/gan_0.5 # FID: 299.3219627565743
 
 python -m pytorch_fid fid/real/ fid/fake/dm_0 # FID: 46.01468036499398
 python -m pytorch_fid fid/real/ fid/fake/dm_0.1 # FID: 153.03076453221735
-python -m pytorch_fid fid/real/ fid/fake/dm_0.3
+python -m pytorch_fid fid/real/ fid/fake/dm_0.3 # FID: 295.1775928185118
 python -m pytorch_fid fid/real/ fid/fake/dm_0.5 # FID: 392.6717186974191
